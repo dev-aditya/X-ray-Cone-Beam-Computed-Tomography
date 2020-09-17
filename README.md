@@ -5,11 +5,19 @@ different angles around the object. CBCT uses a cone shaped X-ray beam.
 The projection data acquired at the 2D detector array, which is then reconstructed into a 3D image volume using the FDK reconstruction
 algorithm.
 
-This repository contains computer program to simulate CBCT. 
+This repository contains computer program to simulate CBCT.
 
 
 ```
-├── README.md
+├── Astra-toolbox
+│   ├── img
+│   │   ├── output_10_1.png
+│   │   ├── output_13_0.png
+│   │   ├── output_6_0.png
+│   │   └── output_8_0.png
+│   ├── Project.ipynb
+│   ├── Project.py
+│   └── README.md
 ├── LICENSE
 ├── MATLAB
 │   ├── main
@@ -22,10 +30,12 @@ This repository contains computer program to simulate CBCT.
 │   ├── parameter.mat
 │   ├── xray_cone_beam_reconstruction_filtered.mlx
 │   └── xray_cone_beam_reconstruction.mlx
-└── Python
-    ├── back_projection.py
-    ├── phantom_features.py
-    ├── phatom_const.py
-    ├── projection.py
-    └── ramp.py
+├── Python
+│   ├── back_projection.py
+│   ├── phantom_features.py
+│   ├── phatom_const.py
+│   ├── projection.py
+│   └── ramp.py
+└── README.md
+
 ```
