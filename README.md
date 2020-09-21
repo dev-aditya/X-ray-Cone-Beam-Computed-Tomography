@@ -15,7 +15,7 @@ This repository contains computer program to simulate CBCT.
 │   │   ├── output_13_0.png
 │   │   ├── output_6_0.png
 │   │   └── output_8_0.png
-│   ├── Project.ipynb
+│   ├── Phantom3DLibrary.dat
 │   ├── Project.py
 │   └── README.md
 ├── LICENSE
@@ -35,7 +35,9 @@ This repository contains computer program to simulate CBCT.
 │   ├── phantom_features.py
 │   ├── phatom_const.py
 │   ├── projection.py
+│   ├── __pycache__
 │   └── ramp.py
 └── README.md
+
 
 ```
