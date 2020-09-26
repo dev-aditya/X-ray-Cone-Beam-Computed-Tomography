@@ -38,6 +38,4 @@ This repository contains computer program to simulate CBCT.
 │   ├── __pycache__
 │   └── ramp.py
 └── README.md
-
-
 ```
