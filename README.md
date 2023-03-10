@@ -1,6 +1,5 @@
 # X-ray Cone Beam Computed Tomography
 
-## THIS REPOSITORY IS ARCHIVED
 
 X-ray Cone-beam Computed tomography (CBCT) is a technique for imaging cross-sections of an object using a series of X-ray measurements taken from
 different angles around the object. CBCT uses a cone shaped X-ray beam.
